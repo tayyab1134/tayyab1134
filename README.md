@@ -82,7 +82,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="https://discord.com/users/1232720305722757183" aria-label="Discord" title="Discord">
+  <a href="#" aria-label="Discord" title="Discord">
     <img src="https://skillicons.dev/icons?i=discord" height="36" alt="Discord" />
   </a>
 </p>
