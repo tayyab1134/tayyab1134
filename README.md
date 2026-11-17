@@ -18,11 +18,12 @@
 
 ## Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev" title="Tech Stack">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,redux,tailwind,html,css,nodejs,express,mongodb,mysql,aws,gcp,cloudinary&perline=8" alt="tech stack icons" />
-  </a>
-</p>
+- **Backend & APIs:** Node.js, TypeScript, Express.js, FastAPI, REST APIs, Third-Party API Integration, Microservices, Event-Driven Architecture, Redis caching, JWT / OAuth 2.0
+- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, Kubernetes, Nginx, Linux, Vercel, GitHub Actions CI/CD, automated testing (pytest), Git/GitLab
+- **Languages & CS Core:** TypeScript, JavaScript, Python, C++, SQL; Data Structures & Algorithms, System Design, Distributed Systems, OOP
+- **Databases:** MongoDB, PostgreSQL, MySQL, Redis, SQLite, Firebase
+- **AI & ML:** LLM Training & Evaluation, RLHF, RAG, LangChain / LangGraph, MCP Agents, OpenAI API, QLoRA Fine-Tuning, XGBoost, MLflow
+- **Frontend & Mobile:** React.js, Next.js, React Native, Vue.js, Redux Toolkit / RTK Query, Tailwind CSS
 
 ---
 
