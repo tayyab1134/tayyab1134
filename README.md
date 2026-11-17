@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ## Connect with me
 
 <p align="center">
