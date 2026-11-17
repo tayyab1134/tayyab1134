@@ -7,10 +7,6 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tayyab1134&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Clean+code+%E2%80%A2+Scalable+APIs+%E2%80%A2+Great+UX;JavaScript%2C+C%2FC%2B%2B%2C+Python+%7C+MERN+%7C+AWS+%26+GCP" alt="animated typing" />
 </p>
 
@@ -29,29 +25,6 @@
 </p>
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tayyab1134&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=21600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tayyab1134&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA&cache_seconds=21600" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=tayyab1134&show_icons=true&hide_border=true&cache_seconds=21600" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tayyab1134&hide_border=true&card_width=420&background=FFFFFF00&theme=github-dark&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&date_format=M%20j%5B,%20Y%5D&cache_seconds=21600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tayyab1134&hide_border=true&card_width=420&background=FFFFFF00&theme=default&ring=0969DA&fire=0969DA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=0969DA&date_format=M%20j%5B,%20Y%5D&cache_seconds=21600" />
-    <img height="160" src="https://streak-stats.demolab.com?user=tayyab1134&hide_border=true&card_width=420&cache_seconds=21600" alt="GitHub streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab1134&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=21600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab1134&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&langs_count=8&cache_seconds=21600" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab1134&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600" alt="Top languages" />
-  </picture>
-</p>
 
 ---
 
